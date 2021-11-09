@@ -7,7 +7,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [2021 郑颖玉-作品集.pdf](https://github.com/xiaohuihuise/My-profile/files/7507540/2021.-.pdf)
 <script src="https://github.com/xiaohuihuise/My-profile/files/7507540/2021.-.pdf"></script>
 
-
+<script src="https://embed.github.com/view/geojson/benbalter/dc-wifi-social/master/bars.geojson"></script>
+<script src="https://github.com/xiaohuihuise/My-profile/files/7507540/2021.-.pdf<path_to_file>"></script>
 ### Markdown
 
 
