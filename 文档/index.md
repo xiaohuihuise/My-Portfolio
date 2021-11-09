@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/xiaohuihuise/My-profile/ed
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 [2021 郑颖玉-作品集.pdf](https://github.com/xiaohuihuise/My-profile/files/7507540/2021.-.pdf)
-<embed src="https://github.com/xiaohuihuise/My-profile/files/7507540/2021.-.pdf" type="application/pdf" />
+<embed src="https://github.com/xiaohuihuise/My-profile/blob/main/2021%20%E9%83%91%E9%A2%96%E7%8E%89-%E4%BD%9C%E5%93%81%E9%9B%86.pdf" type="application/pdf" />
 
 ### Markdown
 
