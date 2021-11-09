@@ -2,7 +2,8 @@
 
 You can use the [editor on GitHub](https://github.com/xiaohuihuise/My-profile/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.[2021 郑颖玉-作品集.pdf](https://github.com/xiaohuihuise/My-profile/files/7507540/2021.-.pdf)
+
 
 ### Markdown
 ```[2021 郑颖玉-作品集.pdf](https://github.com/xiaohuihuise/My-profile/files/7507516/2021.-.pdf)
