@@ -1,7 +1,9 @@
 # My-profile
 
 ![2019 郑颖玉-作品集 copy 001](https://user-images.githubusercontent.com/22811423/142395839-3b7f3fed-5029-46b6-a45b-e504e31f0508.jpeg)
-![2019 郑颖玉-作品集 copy 002](https://user-images.githubusercontent.com/22811423/142395851-bd624aa7-1d5c-4c1b-9afc-4fd83abfcf37.jpeg)
+
+![郑颖玉-交互作品集](https://user-images.githubusercontent.com/22811423/143834497-aa4f743b-578e-4f95-935a-8929f6694adc.jpg)
+
 ![2019 郑颖玉-作品集 copy 003](https://user-images.githubusercontent.com/22811423/142395854-bbeee9aa-205c-4ffb-aaa7-77692f7463cd.jpeg)
 ![2019 郑颖玉-作品集 copy 004](https://user-images.githubusercontent.com/22811423/142395858-008e11f8-3256-447c-8683-a7e37c683d8a.jpeg)
 ![2019 郑颖玉-作品集 copy 005](https://user-images.githubusercontent.com/22811423/142395862-7bf9a832-75fc-4bcc-9838-dac1d46ad8bb.jpeg)
@@ -45,5 +47,3 @@
 ![2019 郑颖玉-作品集 copy 043](https://user-images.githubusercontent.com/22811423/142396007-92797f12-f442-4283-ac40-7b1dc8a71c49.jpeg)
 ![2019 郑颖玉-作品集 copy 044](https://user-images.githubusercontent.com/22811423/142396009-8c1a2873-4b16-4b89-adc3-c27b6919f818.jpeg)
 ![2019 郑颖玉-作品集 copy 045](https://user-images.githubusercontent.com/22811423/142396010-9bcb9183-e811-4bbc-a0a1-5b6320b5fbf8.jpeg)
-
-[2021 郑颖玉-作品集.pdf](https://github.com/xiaohuihuise/My-profile/files/7561914/2021.-.pdf)
