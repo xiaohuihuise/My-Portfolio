@@ -1,41 +1,46 @@
 # My-profile
 
 ![2019 郑颖玉-作品集 copy 001](https://user-images.githubusercontent.com/22811423/142395839-3b7f3fed-5029-46b6-a45b-e504e31f0508.jpeg)
+<img width="1196" alt="image" src="https://user-images.githubusercontent.com/22811423/217436343-536926b3-365e-426e-acfa-e74871a5d149.png">
+<img width="1191" alt="image" src="https://user-images.githubusercontent.com/22811423/217436713-cddabcd4-b0d9-4135-ab3a-4367e3166885.png">
 
-![郑颖玉-交互作品集](https://user-images.githubusercontent.com/22811423/143834497-aa4f743b-578e-4f95-935a-8929f6694adc.jpg)
 
-![2019 郑颖玉-作品集 copy 003](https://user-images.githubusercontent.com/22811423/142395854-bbeee9aa-205c-4ffb-aaa7-77692f7463cd.jpeg)
-![2019 郑颖玉-作品集 copy 004](https://user-images.githubusercontent.com/22811423/142395858-008e11f8-3256-447c-8683-a7e37c683d8a.jpeg)
+<img width="1193" alt="image" src="https://user-images.githubusercontent.com/22811423/217436998-c6c712e4-7d15-40fb-a2a3-01f95c5866f7.png">
+<img width="1191" alt="image" src="https://user-images.githubusercontent.com/22811423/217437291-2af266c8-b60f-48c1-81b5-e94f13ce3cfe.png">
+<img width="1194" alt="image" src="https://user-images.githubusercontent.com/22811423/217441048-8fcee987-814c-4fdc-b1a3-e65c1790f5ad.png">
+<img width="1193" alt="image" src="https://user-images.githubusercontent.com/22811423/217441070-628700d8-f4d6-4457-b866-74333e5cb0dd.png">
+<img width="1193" alt="image" src="https://user-images.githubusercontent.com/22811423/217441098-90c0d2b4-749c-4564-80eb-97e202610a80.png">
+<img width="1192" alt="image" src="https://user-images.githubusercontent.com/22811423/217441134-9b01b0a1-a5bd-4382-924f-eeb410559dae.png">
+<img width="1190" alt="image" src="https://user-images.githubusercontent.com/22811423/217441168-d9324e5a-7b27-4699-b8fa-4604c1f11a30.png">
+
+
+<img width="1195" alt="image" src="https://user-images.githubusercontent.com/22811423/217441210-9a251ae2-b679-4d58-b7a9-aa84478af33e.png">
+<img width="1193" alt="image" src="https://user-images.githubusercontent.com/22811423/217441249-c14768d9-90b7-4065-b5bb-cc062486422a.png">
+<img width="1193" alt="image" src="https://user-images.githubusercontent.com/22811423/217441290-8355f507-fed0-405e-88e5-927627afba0e.png">
+<img width="1191" alt="image" src="https://user-images.githubusercontent.com/22811423/217441323-b69cc44e-433d-4bbf-b8f9-3bd453609bf5.png">
+<img width="1192" alt="image" src="https://user-images.githubusercontent.com/22811423/217441349-1786e394-d723-4066-a9c3-124246c144d5.png">
+<img width="1196" alt="image" src="https://user-images.githubusercontent.com/22811423/217441391-b67c94e6-41af-4184-8b5d-08d840708664.png">
+<img width="1194" alt="image" src="https://user-images.githubusercontent.com/22811423/217441409-fffcce4a-eb1c-44a2-8cf2-2b827013af8e.png">
+<img width="1192" alt="image" src="https://user-images.githubusercontent.com/22811423/217441432-fcf0a68a-ab14-4f65-9baa-0138d3ef31bb.png">
+
 ![2019 郑颖玉-作品集 copy 005](https://user-images.githubusercontent.com/22811423/142395862-7bf9a832-75fc-4bcc-9838-dac1d46ad8bb.jpeg)
-![2019 郑颖玉-作品集 copy 006](https://user-images.githubusercontent.com/22811423/142395867-887492e9-1133-444e-b37e-532b628a4268.jpeg)
-![2019 郑颖玉-作品集 copy 007](https://user-images.githubusercontent.com/22811423/142395868-1e080c2f-d0ec-4254-84fe-0bf5a39c775d.jpeg)
-![2019 郑颖玉-作品集 copy 008](https://user-images.githubusercontent.com/22811423/142395870-af7a966c-57e3-40b0-881a-98c9d35fc8fd.jpeg)
-![2019 郑颖玉-作品集 copy 009](https://user-images.githubusercontent.com/22811423/142395873-45d547c7-02b2-4f23-a75a-62b7206d9623.jpeg)
-![2019 郑颖玉-作品集 copy 010](https://user-images.githubusercontent.com/22811423/142395874-6532a036-c8e4-4e74-abc8-892a06d45997.jpeg)
-![2019 郑颖玉-作品集 copy 011](https://user-images.githubusercontent.com/22811423/142395878-c9f3dcf0-dc1d-41ce-99ba-6792d218b543.jpeg)
-![2019 郑颖玉-作品集 copy 012](https://user-images.githubusercontent.com/22811423/142395880-a66efffc-9523-4567-bec5-b23243f09152.jpeg)
-![2019 郑颖玉-作品集 copy 013](https://user-images.githubusercontent.com/22811423/142395884-7a6c4072-ea63-4b7e-a3d6-89fb37e476ca.jpeg)
-![2019 郑颖玉-作品集 copy 014](https://user-images.githubusercontent.com/22811423/142395890-f1c9e36f-0414-4c00-b1ce-aa5028f363f7.jpeg)
-![2019 郑颖玉-作品集 copy 015](https://user-images.githubusercontent.com/22811423/142395892-72c41292-2f11-44fc-a933-77a996e0dce0.jpeg)
-![2019 郑颖玉-作品集 copy 016](https://user-images.githubusercontent.com/22811423/142395896-8fbc33e4-81fb-4b06-966c-be67506b7000.jpeg)
+<img width="1191" alt="image" src="https://user-images.githubusercontent.com/22811423/217441714-bf2d340f-2b7f-4379-abd2-9ff97fa1e865.png">
+<img width="1186" alt="image" src="https://user-images.githubusercontent.com/22811423/217441748-7f6e72ed-0b1b-41c6-b834-12b7c860f0ef.png">
+<img width="1195" alt="image" src="https://user-images.githubusercontent.com/22811423/217441829-b2bbe289-7c3c-4f97-8d6f-5506df665b5c.png">
+<img width="1191" alt="image" src="https://user-images.githubusercontent.com/22811423/217441895-a5e082d2-24d1-479d-abb5-199003b23609.png">
+<img width="1193" alt="image" src="https://user-images.githubusercontent.com/22811423/217441953-ca6ff484-577c-4e66-9cdf-616bd4ccfb59.png">
+<img width="1189" alt="image" src="https://user-images.githubusercontent.com/22811423/217441972-13e19698-414d-4f3a-9934-e025e46f9bc0.png">
+<img width="1192" alt="image" src="https://user-images.githubusercontent.com/22811423/217442393-636138d9-d4fc-4084-9012-78e02ac5ef54.png">
+<img width="1194" alt="image" src="https://user-images.githubusercontent.com/22811423/217442121-1899eea6-8bf0-4c20-9918-154ee2e967b4.png">
+<img width="1194" alt="image" src="https://user-images.githubusercontent.com/22811423/217442150-dd255e48-54aa-44da-9642-ce61ef93be9c.png">
+<img width="1195" alt="image" src="https://user-images.githubusercontent.com/22811423/217442181-ca41a2cd-65ea-4a3e-9ca3-13c85ef219ce.png">
+<img width="1195" alt="image" src="https://user-images.githubusercontent.com/22811423/217442220-d6388661-a79a-4e58-b392-bf5103337067.png">
+<img width="1195" alt="image" src="https://user-images.githubusercontent.com/22811423/217442808-ed748e02-b190-42dd-b0b0-9a16147fb0d4.png">
 ![2019 郑颖玉-作品集 copy 017](https://user-images.githubusercontent.com/22811423/142395906-5f49112d-6569-47ac-9132-faa19adf0557.jpeg)
-![2019 郑颖玉-作品集 copy 018](https://user-images.githubusercontent.com/22811423/142395910-015a8455-e12c-4458-949e-56f8c0e09222.jpeg)
+<img width="1196" alt="image" src="https://user-images.githubusercontent.com/22811423/217442918-8f7c137e-579b-4298-9eec-09bc22b70333.png">
 ![2019 郑颖玉-作品集 copy 019](https://user-images.githubusercontent.com/22811423/142395919-b82133f3-6880-4108-87fe-dc67fc070d66.jpeg)
-![2019 郑颖玉-作品集 copy 020](https://user-images.githubusercontent.com/22811423/142395924-92affba1-1f1b-4fa9-8728-0960bba4f6e5.jpeg)
-![2019 郑颖玉-作品集 copy 021](https://user-images.githubusercontent.com/22811423/142395927-d91f9536-5cbe-448f-942e-ce62f1c63571.jpeg)
-![2019 郑颖玉-作品集 copy 022](https://user-images.githubusercontent.com/22811423/142395931-0a919b78-d4cb-4d11-bb8a-e170ffd57ef1.jpeg)
-![2019 郑颖玉-作品集 copy 023](https://user-images.githubusercontent.com/22811423/142395934-4f0c5183-ff8f-4323-a08c-639846eece46.jpeg)
-![2019 郑颖玉-作品集 copy 024](https://user-images.githubusercontent.com/22811423/142395939-38dbcea2-7ae9-4c60-8596-7b46824240a3.jpeg)
-![2019 郑颖玉-作品集 copy 025](https://user-images.githubusercontent.com/22811423/142395940-ac0c6d9e-97d6-4eeb-85cb-fcb6551b6eb9.jpeg)
-![2019 郑颖玉-作品集 copy 026](https://user-images.githubusercontent.com/22811423/142395948-9d59d25b-3419-4ce2-920a-a08e946479e5.jpeg)
-![2019 郑颖玉-作品集 copy 027](https://user-images.githubusercontent.com/22811423/142395952-c4ccc96d-db6d-41c1-9be9-d991780bd512.jpeg)
-![2019 郑颖玉-作品集 copy 028](https://user-images.githubusercontent.com/22811423/142395955-1a291d1c-be2a-48fb-ba6e-03c8faeebc51.jpeg)
-![2019 郑颖玉-作品集 copy 029](https://user-images.githubusercontent.com/22811423/142395958-5ee427da-011f-4715-9f5e-637494b53acb.jpeg)
-![2019 郑颖玉-作品集 copy 030](https://user-images.githubusercontent.com/22811423/142395960-4e6f8930-3052-4bdc-a965-ceb334038b17.jpeg)
-![2019 郑颖玉-作品集 copy 031](https://user-images.githubusercontent.com/22811423/142395962-9c6de4d3-e7b4-4705-8461-9814848e46d5.jpeg)
-![2019 郑颖玉-作品集 copy 032](https://user-images.githubusercontent.com/22811423/142395964-fb019c32-efb4-4461-9240-cd1e83f175f6.jpeg)
-![2019 郑颖玉-作品集 copy 033](https://user-images.githubusercontent.com/22811423/142395968-d0b6c3d9-2c5c-4eb1-b23f-6b9e5ea3a0a4.jpeg)
-![2019 郑颖玉-作品集 copy 034](https://user-images.githubusercontent.com/22811423/142395972-951ad558-8744-4f2f-ac3d-c1f7a16bc832.jpeg)
+
+
 ![2019 郑颖玉-作品集 copy 035](https://user-images.githubusercontent.com/22811423/142395976-21bf9b5c-9af3-4081-937b-9643e27cf27a.jpeg)
 ![2019 郑颖玉-作品集 copy 036](https://user-images.githubusercontent.com/22811423/142395983-a04ae63b-2af2-4af6-a45d-346ee2bc7ee6.jpeg)
 ![2019 郑颖玉-作品集 copy 037](https://user-images.githubusercontent.com/22811423/142395987-7d423da1-3db5-4217-8734-9d8798ecf022.jpeg)
@@ -45,5 +50,27 @@
 ![2019 郑颖玉-作品集 copy 041](https://user-images.githubusercontent.com/22811423/142395999-e639c393-cda3-4d4b-86dc-163245bb9451.jpeg)
 ![2019 郑颖玉-作品集 copy 042](https://user-images.githubusercontent.com/22811423/142396004-879a72fe-5dd2-47ce-a149-289eec6dc23a.jpeg)
 ![2019 郑颖玉-作品集 copy 043](https://user-images.githubusercontent.com/22811423/142396007-92797f12-f442-4283-ac40-7b1dc8a71c49.jpeg)
+
+
+<img width="1191" alt="image" src="https://user-images.githubusercontent.com/22811423/217443398-c345009d-2d44-4e96-8da7-b637688d733e.png">
+<img width="1196" alt="image" src="https://user-images.githubusercontent.com/22811423/217443444-67b66345-c155-4c7b-a3c7-9a5ff2fd1fa0.png">
+<img width="1192" alt="image" src="https://user-images.githubusercontent.com/22811423/217443468-d40a2e9b-9edf-4f66-a708-4d8716e74c94.png">
+<img width="1191" alt="image" src="https://user-images.githubusercontent.com/22811423/217443553-bd6c6719-719c-47f8-bd33-e127f84e2ebb.png">
+<img width="1194" alt="image" src="https://user-images.githubusercontent.com/22811423/217443588-9f65fb26-8108-43d5-864e-9984872bd00e.png">
+<img width="1192" alt="image" src="https://user-images.githubusercontent.com/22811423/217443620-4aa598b6-fd8d-47c4-8250-a9729ff8084f.png">
+<img width="1192" alt="image" src="https://user-images.githubusercontent.com/22811423/217443647-8218bb61-a915-4446-b63d-21c33b914c9b.png">
+<img width="1194" alt="image" src="https://user-images.githubusercontent.com/22811423/217443676-970143c8-c5b8-478c-ae96-ba40c207aa78.png">
+<img width="1193" alt="image" src="https://user-images.githubusercontent.com/22811423/217443717-415fb416-49f4-4fb4-8a90-06f9ef5dbf10.png">
+
+
+<img width="1196" alt="image" src="https://user-images.githubusercontent.com/22811423/217443758-3328a453-1992-45f9-bc54-7d2c11a022a7.png">
+<img width="1198" alt="image" src="https://user-images.githubusercontent.com/22811423/217443793-b1eaabf5-2b70-488f-9570-d504baaa1732.png">
+<img width="1194" alt="image" src="https://user-images.githubusercontent.com/22811423/217443827-08f38c1a-d53c-4563-bee2-51daa6e56558.png">
+<img width="1194" alt="image" src="https://user-images.githubusercontent.com/22811423/217443849-a8355e24-a367-4475-b2ce-af2f19ff2f27.png">
+<img width="1194" alt="image" src="https://user-images.githubusercontent.com/22811423/217443881-66880afb-631c-46a1-bac5-82b854ae34a1.png">
+<img width="1195" alt="image" src="https://user-images.githubusercontent.com/22811423/217443905-453a0c8f-bf62-4f9a-a546-139f3bde2e2e.png">
+
+
+
 ![2019 郑颖玉-作品集 copy 044](https://user-images.githubusercontent.com/22811423/142396009-8c1a2873-4b16-4b89-adc3-c27b6919f818.jpeg)
 ![2019 郑颖玉-作品集 copy 045](https://user-images.githubusercontent.com/22811423/142396010-9bcb9183-e811-4bbc-a0a1-5b6320b5fbf8.jpeg)
